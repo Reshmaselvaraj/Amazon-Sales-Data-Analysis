@@ -4,6 +4,8 @@ Have to conduct a detailed year-wise analysis of Amazon sales data to understand
 
 Dashboard 1 
 
+![PAGE 1](https://github.com/user-attachments/assets/3be91967-8419-4cf6-a729-7f87265bcf6d)
+
 Dashboard 2
 
 Dashboard 3
