@@ -8,9 +8,15 @@ Dashboard 1
 
 Dashboard 2
 
+![PAGE 2](https://github.com/user-attachments/assets/f90709a5-4907-49b1-ada5-dbbad7c696f7)
+
 Dashboard 3
 
+![PAGE 3](https://github.com/user-attachments/assets/82c3d384-d3ea-4f0c-8d0e-e3ab3cf3b1ca)
+
 Dashboard 4
+
+![PAGE 4](https://github.com/user-attachments/assets/8c579311-40d8-4c83-b22a-19f22cae9077)
 
 
 **𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀:**
