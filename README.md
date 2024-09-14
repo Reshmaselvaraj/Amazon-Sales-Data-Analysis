@@ -1,8 +1,16 @@
-#Amazon Sales Data Analysis:
+# Amazon Sales Data Analysis:
 
 Have to conduct a detailed year-wise analysis of Amazon sales data to understand sales trends by identifying key metrics and other factors and show the meaningful relationship between attributes.
 
-Dashboard 1 Dashboard 2
+Dashboard 1 
+
+!(C:\Users\reshma.selvaraj\Downloads\PAGE 1.png)
+Dashboard 2
+
+Dashboard 3
+
+Dashboard 4
+
 
 𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀:
 ⦿ Top 5 Gross Profit Margin Categories:
